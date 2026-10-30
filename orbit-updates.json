@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "app": "com.ansanlee.orbit2048",
+  "channels": {
+    "closed_test": {
+      "Android": {
+        "published": false,
+        "latest_revision": 55,
+        "minimum_revision": 0,
+        "version_label": "0.9-virtual-ads-loading-closed-test-20261030",
+        "store_url": "https://play.google.com/store/apps/details?id=com.ansanlee.orbit2048",
+        "enforce_minimum": false,
+        "fully_available": false
+      },
+      "iOS": {"published": false}
+    },
+    "production": {
+      "Android": {"published": false},
+      "iOS": {"published": false}
+    }
+  }
+}
